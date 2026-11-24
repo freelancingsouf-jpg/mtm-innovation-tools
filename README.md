@@ -21,3 +21,4 @@ Compress, resize, and convert images (JPG, PNG, WebP) directly in your browser w
 ### 3. EasyPDF — أدوات ملفات PDF
 Merge, split, compress, and convert PDF files quickly online.
 - **Live App:** [https://easypdf-mtminnovation.pages.dev/](https://easypdf-mtminnovation.pages.dev/)
+- **Technical Article (DEV Community):** [How to Build Zero-Upload Browser Utilities in JavaScript (Architecture & Code)](https://dev.to/mtminnovation/how-to-build-zero-upload-browser-utilities-in-javascript-architecture-code-3g80)
